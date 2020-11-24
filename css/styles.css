@@ -1,0 +1,51 @@
+/* main text color #212121*/
+/*secondary text color #757575*/
+/*accent #2196F3*/
+/*h1 #FFFFFF*/
+
+body {
+  background-color: #e5e5e5;
+  color: #212121;
+}
+
+.list {
+  list-style: none;
+}
+
+.logo {
+  color: #000000;
+}
+
+/*Site nav*/
+
+.site-nav .list {
+  color: #212121;
+}
+
+.site-nav .anlink {
+  color: #757575;
+}
+.site-nav .link {
+  color: #212121;
+}
+.site-nav .link:hover,
+.site-nav .link:focus {
+  color: #2196f3;
+}
+
+.auth-nav .anlink:hover,
+.auth-nav .anlink:focus {
+  color: #2196f3;
+}
+
+/*Hero*/
+
+.hero-title {
+  color: #ffffff;
+}
+
+/*Sections*/
+
+.section-title {
+  color: #212121;
+}
