@@ -20,6 +20,11 @@ body {
   list-style: none;
 }
 
+.current {
+  color: var(--accent-color);
+  text-decoration: none;
+}
+
 /*Visually hidden for H*/
 .visually-hidden {
   position: absolute;
